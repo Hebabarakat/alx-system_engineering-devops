@@ -1,4 +1,2 @@
 #!/bin/bash
-pwd
-ls -l
-ls -al
+pwd /ls -l/ls -al
